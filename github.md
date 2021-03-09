@@ -23,3 +23,6 @@
 
 ###### Tech stack
 - https://github.com/npathai/system-design-with-code
+
+## System Design Architecture Images:
+- https://github.com/neerazz/faang-system-design
