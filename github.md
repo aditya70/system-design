@@ -10,6 +10,7 @@ https://github.com/shashank88/system_design
 
 https://github.com/puncsky/system-design-and-architecture
 
+https://github.com/kevingo/system-design-primer-zh-tw
 https://github.com/DreamOfTheRedChamber
 
 https://github.com/reach2arunprakash
