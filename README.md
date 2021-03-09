@@ -1,21 +1,21 @@
 # system-design
 
-Fundamentals / Basics
+## Basics and fundamentals of system design
 
 https://www.udemy.com/course/fundamentals-of-high-level-system-design/
 
-Course Content
+## Table of contents
 
 https://www.prodevelopertutorial.com/category/system-design-tutorial/
 
-Articles 
+## Blogs and articles 
 
 https://medium.com/javarevisited/10-best-system-design-courses-for-coding-interviews-949fd029ce65
 
 
-Free Resources
+## Free Resources
 
-Paid Resources
+## Paid Resources
 
 https://www.educative.io/courses/grokking-the-system-design-interview
 
