@@ -13,10 +13,16 @@
 6. Networks & Protocols (IP, DNS, HTTP, TCP etc)
 7. Storage, Latency & Throughput
 8. Availability
-9. Consistent Hashing
+9. Consistent Hashing (Hashing)
 10. Leader Election
 11. Polling, Streaming, Sockets (Long-Polling vs WebSockets vs Server-Sent Events)
 12. Endpoint Protection
 13. Messages & Pub-Sub
 14. SQL vs. NoSQL
 15. Redundancy and Replication
+16. Client—Server Model
+17. Peer-To-Peer Networks
+##### Additionals
+18. Rate Limiting
+19. Logging And Monitoring
+20. Security And HTTPS
