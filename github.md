@@ -20,3 +20,6 @@
 
 # System Design Roadmap:
 - https://github.com/mohsenshafiei/system-design-master-plan
+
+###### Tech stack
+- https://github.com/npathai/system-design-with-code
