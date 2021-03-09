@@ -18,6 +18,7 @@ https://medium.com/javarevisited/10-best-system-design-courses-for-coding-interv
 ## Paid Resources
 
 https://www.educative.io/courses/grokking-the-system-design-interview
+https://www.algoexpert.io/product
 
 # System Design Interview Questions
 
