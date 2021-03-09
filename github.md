@@ -14,3 +14,9 @@
 
 # Software Architecture:
 * https://github.com/mehdihadeli/awesome-software-architecture
+
+# Educative Sources:
+- https://github.com/mehdihadeli/awesome-software-architecture
+
+# System Design Roadmap:
+- https://github.com/mohsenshafiei/system-design-master-plan
