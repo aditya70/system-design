@@ -7,6 +7,7 @@
 - Design Uber.
 - Design a furniture selling site.
 - Design Debugger ( * ).
+- Design ATM machine.
 
 
 
