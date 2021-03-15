@@ -8,6 +8,8 @@
 - Design a furniture selling site.
 - Design Debugger ( * ).
 - Design ATM machine.
+- Design High-level design for Latency Management System.
+- Design Low-level design for Library Management System.
 
 
 
