@@ -6,6 +6,7 @@
 - Design book my show (HLD and Only high level discussion).
 - Design Uber.
 - Design a furniture selling site.
+- Design Debugger (*).
 
 
 
