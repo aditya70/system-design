@@ -93,6 +93,17 @@
 - Design producer/consumer live and offline video streaming system.
 - Design comment system.
 - design the flight system with src, destination and no of hops
+- Design Dating application. HLD, then specific discussion of profile search and ranking based on the users’ interest. Discussion on making it scalable.
+- Design an aggregator service that would be serving various services to a lot of clients. Discussion on how this service can hand billions of data in a request. Code for the service.
+- Design survey monkey like website. 
+- Design deck of cards with joker (53 cards).
+- Design a enhanced search that can help customer executives to search for the query asked by user through all the possible sections like- payment, order etc.
+- Design a kind of kindle fire application where we can subscribe news channel and read the news from all publishers as a digital format.
+- Design a system to upload images and tag them, ability to search images with two or more tags particular tags.
+- Design a online shipment tracking system.
+- Design a software to make a reservation at a chain of restaurants. All restaurants are in same Timezone. (He just wanted the class diagram)
+- Twitter design considering following functionalities: Post tweet,  Get the top tweets from the followers
+- News paper & Magazine subscription design.
 - 
 
 
