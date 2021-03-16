@@ -85,7 +85,15 @@
 -  Design a Fresh Grocery System. Means Daily usable Items, you cannot store them in inventory like bread, milk etc. (HLD+ DB Schema + Concurrency issues + Scalable architecture. How will you scale to multiple countries)
 -  Design an Online tracking system, similar to how you can track your order on swiggy after you place it on maps.
 -  Design Recommendation system. How will you generate generate recommendations for millions of users. DB Schema, How will you improve latency? if the user is searching a item, when will you show next recommendations. How will you update, latency basically and consistency.
-
+- Design the payment module of the Uber App.
+- Design Memory Management System and tell about all the data structures you will use and why. How will you allocate and deallocate the memory using those data structure and Time & Space complexity of the operations.
+- Design doctor appointment System.
+- Design Data warehouse placement system.
+- Millions of words are coming in stream and there is a typo in some words.Assign each words in some cluster which is most closer to the word. Example: iphone, ipone, abiphone, iphoe should be in one cluster.
+- Design producer/consumer live and offline video streaming system.
+- Design comment system.
+- design the flight system with src, destination and no of hops
+- 
 
 
     
