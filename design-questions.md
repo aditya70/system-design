@@ -24,7 +24,11 @@
 - Design a Logger.
 - Design a Job Scheduler.
 - Design a feature in Google search which returns “k” most visited websites at any point in time from a log server. A log server provides a trigger whenever a     particular website is visited.
-- 
+- implement the Windows OS file search feature.
+- Design lift.
+- Design notification system (SMS, email and push) – HLD
+- Design pacman game (showed the youtube video) – LLD, HLD
+- Design a system like Red bus [HLD, DB design, Design microservice architecture]
 
 
 
