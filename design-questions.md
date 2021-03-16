@@ -19,7 +19,12 @@
 - Design a file sharing system with Version control of files. (Dropbox).
 - Explain few design patterns that you have used till date.
 - Design a Chess Game. 
-- [Design a Data Structure that supports Insertion, Deletion, search and getRandom in constant time.](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/)
+- [Design a Data Structure that supports Insertion, Deletion, search and getRandom in constant time.](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/).
+- Design an IP Blocking system.
+- Design a Logger.
+- Design a Job Scheduler.
+- Design a feature in Google search which returns “k” most visited websites at any point in time from a log server. A log server provides a trigger whenever a     particular website is visited.
+- 
 
 
 
