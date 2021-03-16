@@ -41,7 +41,7 @@
 - design an shuttl system.
 - Design a grocery store, which will uses the inventory of Kroger(third party inventories) at the backend but at the front end the customer sees Amazon only.
 - Design Vending machine. (State Design Pattern).  
-
+- Design LLD Chess Board Game for 2 players using oops principal.
 
 
 
