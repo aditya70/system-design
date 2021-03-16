@@ -42,6 +42,18 @@
 - Design a grocery store, which will uses the inventory of Kroger(third party inventories) at the backend but at the front end the customer sees Amazon only.
 - Design Vending machine. (State Design Pattern).  
 - Design LLD Chess Board Game for 2 players using oops principal.
+- Social Media Platform design. - HLD, LLD
+- Multiplayer Chess Game with scale around 10 Million users.
+- Design stack overflow along with its Notification system.
+- Design Alert System for Price Down of a Product.
+- Given a class with 25 members and a constraint is not to have an object in memory with partial members set and caller should have easy way of creating an object (Answered with Builder Pattern)
+- Design payment page.
+- Design Swiggy. The different components of the system, databases, apis, notification systems, payment system.
+- Design an elevator system. This round involves, writing the classes, variables, member functions, the interactions between different classes, design patterns used.
+-  Design a room booking system.
+-  Object oriented design of a parking lot(Template method pattern, Strategy pattern and Abstract Factory pattern)
+-  Design Railway Booking System, both HLD and LLD.
+-  HLD for Instagram 
 
 
 
