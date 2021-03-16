@@ -7,7 +7,7 @@
 - Design Uber.
 - Design a furniture selling site.
 - Design Debugger ( * ).
-- Design ATM machine.
+- Design ATM machine. ( * )
 - Design High-level design for Latency Management System.
 - Design Low-level design for Library Management System.
 - Design a queue using only one stack.
@@ -18,7 +18,7 @@
 - Design a system which receives signals from a set of sensors and display a bitmap on a screen for a given area. An area can have 1000 sensors in 100sq km. 
 - Design a file sharing system with Version control of files. (Dropbox).
 - Explain few design patterns that you have used till date.
-- Design a Chess Game. 
+- Design a Chess Game. ( * )
 - [Design a Data Structure that supports Insertion, Deletion, search and getRandom in constant time.](https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/).
 - Design an IP Blocking system.
 - Design a Logger.
