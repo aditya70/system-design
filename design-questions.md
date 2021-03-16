@@ -60,6 +60,23 @@
 -  Design File Convertor like converting xml to Json, etc with all the classes and relations.
 -  Design RedBus, add some features from OLA and UBER.
 -  design a movies reviews aggregator system. Data should be fetched from movie rating providers like imdb, rotten tomatoes, etc
+-  Design ESPN-Cricinfo website Backend, discussion on HLD and LLD and Load Balancer.
+-  Design gaming platform. A number of games can be hosted on this platform. User can login and select a particular game. Discussed both HLD and LLD.
+-  Discussed on last mile delivery challenge in case of peak seasons. LLD for third party delivery vendor for registration and notification system .
+-  Design google’s Autocomplete feature.
+-  Design a scalable meeting room booking system.
+-  Design a deck of card (only the model classes).
+-  Design Promo Code API taking Amazon’s customer traffic into picture (HLD and LLD was discussed – including in memory databases).
+-  Design a vending machine with following functionalities - Three types of Users : User, Operator, Admin
+-  Design a Whatsapp like service. 
+-  Integration for Splitwise app with Amazon Pay (or Paytm)
+-  Design VLC.
+-  Design Restaurant booking application HLD and LLD. 
+-  Design a ranking system. 
+-  Design Amazon Cart System. (HLD and LLD )
+-  
+
+    
 
 
 
