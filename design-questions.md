@@ -31,7 +31,11 @@
 - Design a system like Red bus [HLD, DB design, Design microservice architecture]
 - [Design a system like Amazon locker.](https://leetcode.com/discuss/interview-question/233869/Design-Amazon-Locker-system).
 - Design Dominoes website.(major components like Delivery tracking system, User Signup/Login flow, Fulfillment service etc.)
-- Design Job management system
+- Design Job management system.
+- Design Snake & Ladder multiplayer game.
+- Design Inventory for 1000 employees in Amazon for any product of your choice(like laptops etc)
+  class level diagram, HLD ( Emphasis was on Design patterns used in class diagram) 
+-   
 
 
 
