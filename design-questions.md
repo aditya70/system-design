@@ -35,7 +35,12 @@
 - Design Snake & Ladder multiplayer game.
 - Design Inventory for 1000 employees in Amazon for any product of your choice(like laptops etc)
   class level diagram, HLD ( Emphasis was on Design patterns used in class diagram) 
--   
+- Train reservation LLD.
+- Food Delivery app design – Brief HLD, LLD
+- Tinder design - HLD
+- design an shuttl system.
+- Design a grocery store, which will uses the inventory of Kroger(third party inventories) at the backend but at the front end the customer sees Amazon only.
+- Design Vending machine. (State Design Pattern).  
 
 
 
