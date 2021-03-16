@@ -20,3 +20,17 @@
 - Designing Yelp or Nearby Friends
 - Designing Uber backend
 - Design Ticketmaster
+
+### Commonly asked Amazon System Design Interview Questions
+ - Design Instagram.
+ - Discussion and designing LRU cache.
+ - Design a garbage collection system.
+ - Design a system to capture unique addresses in the entire world.
+ - Design a recommendation system for products.
+ - Design a toll system for highways.
+ - Design URL Shortener.
+ - Design Instant Messenger.
+ - Design Elevator system.
+ - Design distribute caching system.
+ - Design Amazon Locker Service.
+ - Design Amazon Best Seller Item Service.
