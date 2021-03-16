@@ -112,6 +112,6 @@
 - Design an Email client. should be having all features of email-client. ( Transfer one file data from one PC to another PC. To transfer data some network entity is being used which cost some value. You need to reduce this cost of transferring the data. —> I used compression technique to replace repetitive data with some key on first PC and put it back on another PC.)
 - Design online cab booking system for amazon.
 - Design Car Service center ( How do you implement ‘Car service center’ application to achieve Reliability, Scalable and Consistent in distributed environment.)
-- 
+- Design Clustered caching system for an web site like Amazon.com.In which millions of web servers deployed over the globe and only one inventory Database system
 
 
