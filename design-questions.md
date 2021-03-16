@@ -74,7 +74,19 @@
 -  Design Restaurant booking application HLD and LLD. 
 -  Design a ranking system. 
 -  Design Amazon Cart System. (HLD and LLD )
--  
+-  Taxi services like Ola, Uber.
+-  Design App-Store.
+-  Design Netflix.
+-  Design a Music Player application [ many use cases were covered ] eg : support for SD card ( All class diagrams were required on a whiteboard)
+-  Design a Distributed LRU Cache.
+-  Design Gmail – consider scalability , redundancy, brief discussion on CAP Theorem, class diagrams,Database schema ( SQL vs NOSQL) , how to handle attachments
+-  Design JProfiler. How will you design datastructure and why, function stacktrace. HLD+LLD
+-  Design Cricket Score Board HLD+LLD
+-  Design a Fresh Grocery System. Means Daily usable Items, you cannot store them in inventory like bread, milk etc. (HLD+ DB Schema + Concurrency issues + Scalable architecture. How will you scale to multiple countries)
+-  Design an Online tracking system, similar to how you can track your order on swiggy after you place it on maps.
+-  Design Recommendation system. How will you generate generate recommendations for millions of users. DB Schema, How will you improve latency? if the user is searching a item, when will you show next recommendations. How will you update, latency basically and consistency.
+
+
 
     
 
