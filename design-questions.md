@@ -104,12 +104,14 @@
 - Design a software to make a reservation at a chain of restaurants. All restaurants are in same Timezone. (He just wanted the class diagram)
 - Twitter design considering following functionalities: Post tweet,  Get the top tweets from the followers
 - News paper & Magazine subscription design.
+- Design a key value pair storing system in a distributed system, Questions on types of caching in distributed systems , Sharding, How will you be handling scalability , failover and latency.
+- Design a system where a buyer puts a notification to the social networking site about his transaction.
+- Design the most recently viewed item for amazon , say 15 most recently viewed item which are scrollable for millions of products and users . scalable and extensible model. give apis , distributed systems, caching , reduce latency : critical
+- Give Object oriented design for the snake game (that was in old nokia phones) . only class and obj diag was needed, no code/implementation. it should have extensibility to accomodate different types of fruits, (eg one gives + 5 len + 10 pts) it should be scalable to diff platforms
+- Give an architecture diagram with all entities and relationships of a multi user wysiwyg editor . basically a web interface to multiple authors who can edit and store their docs . multiple ppl should be able to save it at once . also ownership should be present for documents.
+- Design an Email client. should be having all features of email-client. ( Transfer one file data from one PC to another PC. To transfer data some network entity is being used which cost some value. You need to reduce this cost of transferring the data. —> I used compression technique to replace repetitive data with some key on first PC and put it back on another PC.)
+- Design online cab booking system for amazon.
+- Design Car Service center ( How do you implement ‘Car service center’ application to achieve Reliability, Scalable and Consistent in distributed environment.)
 - 
 
 
-    
-
-
-
-
-# LLD Questions
