@@ -54,6 +54,10 @@
 -  Object oriented design of a parking lot(Template method pattern, Strategy pattern and Abstract Factory pattern)
 -  Design Railway Booking System, both HLD and LLD.
 -  HLD for Instagram 
+-  Design Facebook Timeline (Higher Level Design)
+-  Design Amazon Flash Sales System, inventory (shared b/w India and USA , How you will handle Transactions, concurrency etc .
+-  Design BookmyShow.
+-  Design File Convertor like converting xml to Json, etc with all the classes and relations.
 
 
 
