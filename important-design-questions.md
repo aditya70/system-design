@@ -1,3 +1,6 @@
+### Practice
+- [System Design Questions](https://www.careercup.com/page?pid=system-design-interview-questions)
+- 
 ### Interview Bit
 - Design URL Shortener 
 - Design Search Typeahead 
