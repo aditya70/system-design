@@ -58,6 +58,8 @@
 -  Design Amazon Flash Sales System, inventory (shared b/w India and USA , How you will handle Transactions, concurrency etc .
 -  Design BookmyShow.
 -  Design File Convertor like converting xml to Json, etc with all the classes and relations.
+-  Design RedBus, add some features from OLA and UBER.
+-  design a movies reviews aggregator system. Data should be fetched from movie rating providers like imdb, rotten tomatoes, etc
 
 
 
