@@ -1,0 +1,1 @@
+- Some behavioral questions[Asked to explain it using STAR(Situation, Task, Action, Result) methodology]
