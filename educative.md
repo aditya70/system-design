@@ -1,3 +1,3 @@
 
 - [Educative Courses](https://github.com/merry75/educative.io_courses)
-- [Course Daddy](http://coursesdaddy.com/category/educative-io/)
+- [Course Daddy](http://coursesdaddy.com/category/educative-io/) - Free paid courses
