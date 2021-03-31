@@ -7,10 +7,10 @@
 - [Object Oriented Design -Carrercup](https://www.careercup.com/page?pid=object-oriented-design-interview-questions&sort=votes)
 
 ###### Top 10 / Commomly asked questions
-- [AlgoExpert](https://www.algoexpert.io/systems/questions?r=ads&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYrh2HINKphitTyC7HmHh-gH6InwrnMo9-wf1e78M7IozwrT95pEB5IaAuddEALw_wcB)
-- [GFG](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
-- [Medium](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
-- [Hackernoon](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+- [AlgoExpert-10 Systems Design Interview](https://www.algoexpert.io/systems/questions?r=ads&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYrh2HINKphitTyC7HmHh-gH6InwrnMo9-wf1e78M7IozwrT95pEB5IaAuddEALw_wcB)
+- [GFG-Top 10 System Design Interview](https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/)
+- [Medium-25 Software Design Interview](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
+- [Hackernoon-Top 10 System Design Interview](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 - [Educative](https://www.educative.io/blog/top-10-system-design-interview-questions)
 - [Indeed](https://www.indeed.com/career-advice/interviewing)
 - [Dzone1](https://dzone.com/articles/21-object-oriented-and-system-design-problems-to-p)
