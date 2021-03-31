@@ -36,6 +36,7 @@
 - Designing Uber backend
 - Design Ticketmaster
 ###### Commonly asked Amazon System Design Interview Questions
+ - [Amazon questions](Amazon System Design Interview Questions)
  - Design Instagram.
  - Discussion and designing LRU cache.
  - Design a garbage collection system.
