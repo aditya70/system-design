@@ -1,3 +1,7 @@
+#### Free course
+- [Educative Courses](https://github.com/merry75/educative.io_courses)
+- [Course Daddy](http://coursesdaddy.com/category/educative-io/) - Free paid courses
+- [Logicmojo](https://www.logicmojo.com/)
 #### Low Level Design:
  1. Grokking Object Oriented Design Interview
  2. Head First Design patterns
