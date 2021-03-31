@@ -1,6 +1,6 @@
 ##### Commonly asked design questions
 - [25 Software Design Interview - Medium](https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0)
-- [Top 10 Object-Oriented Design - Hackernoon] (https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39)
+- [Top 10 Object-Oriented Design - Hackernoon](https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39)
 - [object-oriented-design - Leetcode - Hot](https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query=)
 - [system-design - Leetcode - Hot](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
 - [system-design-interview-questions - Careercup](https://www.careercup.com/page?pid=system-design-interview-questions)
