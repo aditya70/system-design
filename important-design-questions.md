@@ -4,6 +4,7 @@
 - [object-oriented-design - Leetcode - Hot](https://leetcode.com/discuss/interview-question/object-oriented-design?currentPage=1&orderBy=hot&query=)
 - [system-design - Leetcode - Hot](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=hot&query=)
 - [system-design-interview-questions - Careercup](https://www.careercup.com/page?pid=system-design-interview-questions)
+- [Object Oriented Design -Carrercup](https://www.careercup.com/page?pid=object-oriented-design-interview-questions&sort=votes)
 
 ###### Top 10 / Commomly asked questions
 - [AlgoExpert](https://www.algoexpert.io/systems/questions?r=ads&gclid=Cj0KCQjwrsGCBhD1ARIsALILBYrh2HINKphitTyC7HmHh-gH6InwrnMo9-wf1e78M7IozwrT95pEB5IaAuddEALw_wcB)
