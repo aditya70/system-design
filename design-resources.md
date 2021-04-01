@@ -1,4 +1,5 @@
-https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md
+- https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md **
+- https://github.com/donnemartin/system-design-primer   **
 #### Free course
 - [Educative Courses](https://github.com/merry75/educative.io_courses)
 - [Course Daddy](http://coursesdaddy.com/category/educative-io/) - Free paid courses
